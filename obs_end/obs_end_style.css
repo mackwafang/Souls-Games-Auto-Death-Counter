@@ -1,0 +1,16 @@
+body {
+	background-color: #0f0;
+	font-family: 'Bebas Neue', cursive;;
+}
+
+.counter {
+	display: inline;
+	font-size: 80px;
+	color: #fff;
+}
+
+#counter_value {
+	display: inline;
+	transition: opacity 1s linear;
+	animation: blink;
+}

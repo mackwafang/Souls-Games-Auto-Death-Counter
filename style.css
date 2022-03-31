@@ -1,0 +1,33 @@
+body {
+	background-color: #0f0;
+}
+
+.counter {
+	width: 100%;
+	text-align: center;
+	font-size: 12em;
+}
+
+#counter {
+	display: inline;
+}
+
+#increment_button {
+	display: block;
+	border: none;
+	width: 100%;
+	background-color: #f00;
+	font-size: 80px;
+	cursor: pointer;
+	text-align: center;
+	position: relative;
+	left: 0%;
+}
+
+.setter {
+	margin-top: 5px;
+}
+
+#init_user_value {
+	width: 128px;
+}
