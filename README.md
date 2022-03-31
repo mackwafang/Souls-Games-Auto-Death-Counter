@@ -22,3 +22,5 @@ npm install
 ## Usage:
 1. Run ```node server.js```
 2. [Optional] Open a browser to the address listed on by ```server.js``` (defaulted to 192.1.168.214:8080) and add "/main" for manual increments, in case the detector fails to increment.
+
+Note: This program assumes that you are running the game at full-screen on your main monitor
